@@ -83,3 +83,11 @@ Data log harus memiliki format berikut di spreadsheet:
 ```
 Tanggal | Jenis Akses | IP Akses
 ```
+
+## 🤝 Kontribusi
+Kontribusi selalu terbuka! Beberapa cara berkontribusi:
+1. Fork repository
+2. Buat branch fitur baru (`git checkout -b fitur-baru`)
+3. Commit perubahan (`git commit -m 'Menambah fitur baru'`)
+4. Push ke branch (`git push origin fitur-baru`)
+5. Buat Pull Request
